@@ -1,9 +1,9 @@
 object mf: Tmf
   Left = -4
   Top = -4
-  Caption = 'mf'
-  ClientHeight = 450
-  ClientWidth = 632
+  Caption = 'Tank Game: Battle'
+  ClientHeight = 584
+  ClientWidth = 984
   Color = clBlack
   Font.Charset = ANSI_CHARSET
   Font.Color = clWhite
@@ -18,10 +18,10 @@ object mf: Tmf
   PixelsPerInch = 96
   TextHeight = 17
   object im: TImage
-    Left = 4
-    Top = 100
-    Width = 629
-    Height = 342
+    Left = 8
+    Top = 95
+    Width = 977
+    Height = 485
   end
   object start: TSpeedButton
     Left = 246

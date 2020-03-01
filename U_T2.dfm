@@ -1,7 +1,7 @@
 object mf2: Tmf2
   Left = -4
   Top = -4
-  Caption = 'Tank Game'
+  Caption = 'Tank Game: Menu'
   ClientHeight = 476
   ClientWidth = 627
   Color = clBlack
